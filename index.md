@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Bash 2021 回归计划
 
-You can use the [editor on GitHub](https://github.com/BashNation/Bash-Comes-Back-21/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Make Bash Nation Great Again!  
+Bash 将于 2021-10-07（GMT+8）后结束现已马某腾为首的某讯公司的实体制裁正式回到 Bash Nation。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Make Bash Nation Great Again movement is only just beginning.
 
-### Markdown
+President Bash is calling on you to step up and become a founding member of his Save Bash Nation and America team.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BashNation/Bash-Comes-Back-21/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Can he count on you?
